@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "64e4eb944d2e1a2529cdb82b"
+  },
+  "tipoEstado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "64e4ebc74d2e1a2529cdb830"
+  },
+  "tipoEstado": "Inactivo"
+}]

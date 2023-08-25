@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "64e4e52bfda16da114cafd93"
+  },
+  "tipoPago": "Efectivo"
+},
+{
+  "_id": {
+    "$oid": "64e4e579fda16da114cafd94"
+  },
+  "tipoPago": "Tarjeta"
+},
+{
+  "_id": {
+    "$oid": "64e4e58ffda16da114cafd95"
+  },
+  "tipoPago": "Cheque"
+}]
